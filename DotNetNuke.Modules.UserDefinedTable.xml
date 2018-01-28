@@ -612,6 +612,13 @@
             </summary>
             -----------------------------------------------------------------------------
         </member>
+        <member name="T:DotNetNuke.Modules.UserDefinedTable.DataTypes.DataTypeExpessionEmail">
+            -----------------------------------------------------------------------------
+            <summary>
+              MetaData and Formating for DataType "DataTypeExpessionEmail"
+            </summary>
+            -----------------------------------------------------------------------------
+        </member>
         <member name="T:DotNetNuke.Modules.UserDefinedTable.DataTypes.EditBoolean">
             -----------------------------------------------------------------------------
             <summary>
@@ -1347,9 +1354,54 @@
             To modify move field declaration from designer file to code-behind file.
             </remarks>
         </member>
-        <member name="F:DotNetNuke.Modules.UserDefinedTable.Configuration.noFormSettings">
+        <member name="F:DotNetNuke.Modules.UserDefinedTable.Configuration.lblEnableFormTemplate">
             <summary>
-            noFormSettings control.
+            lblEnableFormTemplate control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:DotNetNuke.Modules.UserDefinedTable.Configuration.chkEnableFormTemplate">
+            <summary>
+            chkEnableFormTemplate control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:DotNetNuke.Modules.UserDefinedTable.Configuration.divFormTemplate">
+            <summary>
+            divFormTemplate control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:DotNetNuke.Modules.UserDefinedTable.Configuration.lblFormTemplate">
+            <summary>
+            lblFormTemplate control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:DotNetNuke.Modules.UserDefinedTable.Configuration.txtFormTemplate">
+            <summary>
+            txtFormTemplate control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:DotNetNuke.Modules.UserDefinedTable.Configuration.cmdGenerateFormTemplate">
+            <summary>
+            cmdGenerateFormTemplate control.
             </summary>
             <remarks>
             Auto-generated field.
